@@ -27,5 +27,5 @@ Content [Press 2x Enter to stop]:
 
 250: Message sent
 ```
-## License
+## Me
 [LinkedIn](https://fr.linkedin.com/in/kenji-duriez-9b93bb141)
