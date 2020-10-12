@@ -6,6 +6,12 @@ Allow you to send email with this Python program
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
+You need dnspython
+```bash
+pip3 install dnspython
+```
+You can now launch this script
+
 ```bash
 python3 SendMail-Python.py
 ```
